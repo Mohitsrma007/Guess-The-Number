@@ -1,2 +1,2 @@
 # Guess-The-Number
-Engaging Game.
+DOM Project
